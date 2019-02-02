@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import WordSearch from '@/components/WordSearch'
+import WordSearch from '@/views/WordSearch'
 
 Vue.use(Router)
 
