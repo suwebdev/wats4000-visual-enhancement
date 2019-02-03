@@ -48,13 +48,11 @@ If we crave more challenges, try tackling some of these suggestions.
 npm install
 
 # serve with hot reload at localhost:8080
-npm run dev
+npm run serve
 
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader). This project uses [`vue2-animate`](https://github.com/asika32764/vue2-animate) and [SpinKit](http://tobiasahlin.com/spinkit/).
+For detailed explanation on how Vue works, check out the [guide](https://cli.vuejs.org/guide/) and [docs for vue-loader](https://cli.vuejs.org/config/#css-loaderoptions).This project uses [`vue2-animate`](https://github.com/asika32764/vue2-animate) and [SpinKit](http://tobiasahlin.com/spinkit/).
